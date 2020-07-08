@@ -4,7 +4,7 @@
   "description": "A higher-level wrapper around the Github API.",
   "main": "github.js",
   "dependencies": {
-    "atob": "^1.1.2",
+    "atob": "^2.1.2",
     "btoa": "^1.1.2",
     "xmlhttprequest": "~1.7.0"
   },
